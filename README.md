@@ -34,7 +34,8 @@ The analysis covers the full analytics lifecycle — starting from raw data extr
 - Chinook_SQL_Queries.sql [Click here to view the code ](chinook_sql_queries.sql) → SQL scripts for data preparation  
 - Chinook_Dashboard.pbix [Click here to download the file ](power_bi_file.pbix)→ Power BI dashboard file  
 - Project_Presentation.pptx [Click here to view the file ](Presentation.pdf) → Final project presentation  
-- Documentation.pdf [Click here to view the file ](Documentation.pdf) → Detailed project documentation  
+- Documentation.pdf [Click here to view the file ](Documentation.pdf) → Detailed project documentation
+- Figma_backgrouns.pdf [Click here to view the file ](Figma_backgrouns.pdf) → UI Figma backgound templates
 
 <hr/>
 
