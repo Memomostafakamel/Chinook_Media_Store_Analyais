@@ -35,7 +35,7 @@ The analysis covers the full analytics lifecycle — starting from raw data extr
 - Chinook_Dashboard.pbix [Click here to download the file ](power_bi_file.pbix)→ Power BI dashboard file  
 - Project_Presentation.pptx [Click here to view the file ](Presentation.pdf) → Final project presentation  
 - Documentation.pdf [Click here to view the file ](Documentation.pdf) → Detailed project documentation  
-[Click here to view the file ](figmabackroundstemplate)
+
 <hr/>
 
 ## 📸 Dashboard samples  
